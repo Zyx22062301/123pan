@@ -34,9 +34,9 @@
 可以直接下载release的可执行文件运行或运行python脚本。
 ```
 
-```
+
 脚本运行：
-```
+
 
 1. 克隆或下载本项目代码到本地。
 
@@ -50,9 +50,9 @@
    python android.py
    ```
 
-```
-使用web协议
-```
+
+   使用web协议
+
 
 ```bash
     python web.py
